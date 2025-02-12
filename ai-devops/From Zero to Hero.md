@@ -1,7 +1,7 @@
 # Harnessing AI to Become a DevOps Pro: From Zero to Hero  
 利用 AI 成为 DevOps 专家：从零到英雄
 
-![[./pics/Harnessing_AI_to_Become_a_Dev_Ops_Pro_Intro_From_Zero_to_Hero_0b496846db.png]]
+[!Series1](/ai-devops/pics/Harnessing_AI_to_Become_a_Dev_Ops_Pro_Intro_From_Zero_to_Hero_0b496846db.png)
 
 ###### October 11, 2024 by stein ove helset  
 
